@@ -19,8 +19,9 @@ The mod lets users choose a display name and CasaOS icon, saves the shortcut thr
 
 ## Installation
 
-1. Copy `mod.js` into your CasaMOD extension/mod location.
-2. Enable or load the mod in CasaOS.
+1. Copy the `pin-sidepanel` folder to `/DATA/AppData/casamod/mod/pin-sidepanel/`
+2. Restart CasaMOD: `docker restart casamod` - or restart from CasaOS interface
+3. Hard-refresh the browser (`Ctrl+Shift+R`)
 
 ## Usage
 
